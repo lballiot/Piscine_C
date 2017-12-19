@@ -1,7 +1,0 @@
-Credentials cache: API:D73FFA5C-8ECA-4F01-8934-02228E4F4BE3
-        Principal: lballiot@42.FR
-
-  Issued                Expires               Principal
-Jul  3 21:41:22 2017  Jul 10 21:41:14 2017  krbtgt/42.FR@42.FR
-Jul  3 22:01:04 2017  Jul 10 21:41:14 2017  ldap/ldap-proxy.42.fr@42.FR
-Jul  3 22:07:48 2017  Jul 10 21:41:14 2017  host/vgs-fn1.42.fr@42.FR
